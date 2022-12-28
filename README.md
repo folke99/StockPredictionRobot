@@ -21,7 +21,7 @@ OBS Tensorflow is not supported for python 3.11 at this moment.
 OBS To run the google dataset change the comments
 
 <h3> Link to video presentation </h3>
-<a href="www.youtube.com"> LINK TO VIDEO </a>
+<a href="https://www.youtube.com/watch?v=jtoLv2oEsFs"> LINK TO VIDEO </a>
 
 ## Data
 Google: https://www.kaggle.com/datasets/medharawat/google-stock-price?select=Google_Stock_Price_Train.csv
