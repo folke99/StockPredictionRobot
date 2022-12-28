@@ -9,4 +9,5 @@ Folke Forshed folfor-9@student.ltu.se
 
 ## Data
 Google: https://www.kaggle.com/datasets/medharawat/google-stock-price?select=Google_Stock_Price_Train.csv
+
 Testa: https://www.kaggle.com/datasets/rpaguirre/tesla-stock-price
