@@ -18,6 +18,8 @@ OBS Tensorflow is not supported for python 3.11 at this moment.
 <li>Make sure all the .csv files are in the same directory</li>
 <li>Run stockPricePrediction.ipybn</li>
 
+OBS To run the google dataset change the comments
+
 <h3> Link to video presentation </h3>
 <a href="www.youtube.com"> LINK TO VIDEO </a>
 
