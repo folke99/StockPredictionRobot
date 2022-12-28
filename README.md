@@ -6,9 +6,11 @@ Lukas Ledin lukled-9@student.ltu.se
 Folke Forshed folfor-9@student.ltu.se
 
 <h3> Requirements: </h3>
-Python<br>
+Python(3.7-3.10)<br>
 jupyter-lab<br>
 the following libraries: numpy, pandas, matplotlib, sklearn, keras, tensorflow.
+
+OBS Tensorflow is not supported for python 3.11 at this moment.
 
 <h3> How to run </h3>
 
@@ -18,9 +20,6 @@ the following libraries: numpy, pandas, matplotlib, sklearn, keras, tensorflow.
 
 <h3> Link to video presentation </h3>
 <a href="www.youtube.com"> LINK TO VIDEO </a>
-
-<h3>About Project</h3>
-<p>blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah</p>
 
 ## Data
 Google: https://www.kaggle.com/datasets/medharawat/google-stock-price?select=Google_Stock_Price_Train.csv
